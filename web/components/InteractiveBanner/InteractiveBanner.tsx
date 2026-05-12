@@ -6,8 +6,7 @@ import Toolbar from "./Toolbar";
 import ContextMenu from "./ContextMenu";
 import Typewriter from "typewriter-effect";
 import { useImageFilter } from "./useImageFilter";
-import clube from "../../assets/clube.jpg";
-import BenchmarkPopup from "./BenchmarkPopup";
+import clube from "../../assets/clube-people.jpg";
 import { motion } from "motion/react";
 
 const CONTAINER_PADDING = 500;
